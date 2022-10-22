@@ -2,10 +2,16 @@
 
 
 REQUIRMENTS
+
+
+
 For this project you need to install Metamask and IDE for the front and backend. Also you will work with the Remix.
 
 
 INSTALLATION
+
+
+
 Locate the contracts folder under Remix’s "File Explorers" and create a new file called Pet_Contract.sol.
 Copy and paste the Solidity smart contract below, inside the Pet_Contract.sol file.
 Compile and deploy the contract using your Metamask wallet.
